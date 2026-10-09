@@ -1,0 +1,5 @@
+/*.log
+*.ipa
+*.deb
+packages/
+.theos/

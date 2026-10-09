@@ -1,0 +1,9 @@
+Package: com.chiuhuang.easywallettheme
+Name: EasyWalletTheme
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Custom theming for Easy Wallet
+Maintainer: ChiuHuang
+Author: ChiuHuang
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
